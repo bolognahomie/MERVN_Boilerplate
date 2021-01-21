@@ -1,7 +1,7 @@
 # MERVN_Boilerplate
 A boilerplate application using Mongoose, Express, Express-React-Views and Node.js
 
-#Usage
+### Usage
 
 Clone the repo and run ```npm i``` to install dependencies.
 
